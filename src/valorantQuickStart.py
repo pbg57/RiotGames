@@ -1,6 +1,6 @@
 import valorant
 
-KEY = "RGAPI-120a1779-37cd-47a1-a8f6-4feb8fef6428"
+KEY =  ""
 
 print("Key: " + KEY)
 client = valorant.Client(KEY)

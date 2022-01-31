@@ -51,7 +51,7 @@ summonerName = 'Doublelift'
 
 # Riot Games API key. Valid for 24 hours only and then must be regenerated.
 # Requires a Riot Games dev account. Note: see other usage limitations.
-riotGamesApiKey = 'RGAPI-120a1779-37cd-47a1-a8f6-4feb8fef6428'
+riotGamesApiKey = ''
 
 #
 # LolWatcher class is the main interaction point with the APIs for League of Legends.
